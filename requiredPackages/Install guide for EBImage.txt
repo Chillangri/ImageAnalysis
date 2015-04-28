@@ -1,0 +1,13 @@
+Installation
+
+1. To install this package, start R and enter:
+
+source("http://bioconductor.org/biocLite.R")
+biocLite("EBImage")
+
+
+
+2. Documentation
+
+To view documentation for the version of this package installed in your system, start R and enter:
+browseVignettes("EBImage")
