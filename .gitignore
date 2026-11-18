@@ -1,0 +1,7 @@
+# R session artifacts
+.RData
+.RData*
+.Rhistory
+.Rhistory*
+.Rapp.history
+.Rproj.user/
