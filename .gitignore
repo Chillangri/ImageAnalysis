@@ -1,0 +1,10 @@
+# R session artifacts
+.RData
+.RData*
+.Rhistory
+.Rhistory*
+.Rapp.history
+.Rproj.user/
+
+# Duplicate copies from file sync
+* (1).*
